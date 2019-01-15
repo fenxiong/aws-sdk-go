@@ -1,3 +1,10 @@
+Release v1.16.18 (2019-01-11)
+===
+
+### Service Client Updates
+* `service/ecs`: Updates service API and documentation
+  * 
+
 Release v1.16.17 (2019-01-10)
 ===
 
